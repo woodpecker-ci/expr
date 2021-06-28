@@ -1,6 +1,6 @@
 package expr
 
-import "github.com/drone/expr/parse"
+import "github.com/woodpecker-ci/expr/parse"
 
 // Selector reprents a parsed SQL selector statement.
 type Selector struct {
